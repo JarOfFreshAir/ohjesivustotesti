@@ -1,0 +1,5 @@
+title: Oppilaitoksen Laiteohjeet
+description: Laitteiden käyttö- ja turvallisuusohjeet
+theme: minima
+plugins:
+  - jekyll-feed
